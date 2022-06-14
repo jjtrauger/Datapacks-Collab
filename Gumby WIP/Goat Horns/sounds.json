@@ -1,0 +1,10 @@
+{
+    "wooden_horn": {
+         "sounds":[
+             {
+                 "name": "custom_horn_sounds/wooden_horn",
+                 "weight": 1
+             } 
+         ]
+    }
+}
