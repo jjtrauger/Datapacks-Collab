@@ -1,9 +1,18 @@
 Currentobjectives:
 
-- Add custom crop: rice
-- Add custom crafting table: kitchen counter
-- Add rice to sushi recipe
+- Add custom GUI to cutting table (top priority)
+- Add custom crop: rice (learn scoreboard commands)
+- Add rice to sushi recipe 
 
-Future Objectives:
+Potential Objectives:
+- Sword crafting system
+- Fletching table interactions
+- Custom Mob, perhaps octopus to start
+- On Ground Crafting (Item Floor Crafting)
+- More Enchantments
+- More Crafters
+
+Long-Term Future Objectives:
 - Add dragons that drop scales
 - Add method using scales to train guard drakes
+- Implement Leveling System for Various Skills
